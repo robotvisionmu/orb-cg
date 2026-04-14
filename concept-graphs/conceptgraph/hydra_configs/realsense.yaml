@@ -1,7 +1,0 @@
-defaults:
-  - base_paths
-
-dataset_root: ${data_root}/imu
-dataset_config: ${repo_root}/conceptgraph/dataset/dataconfigs/realsense/realsense.yaml
-scene_id: study
-render_camera_path: ${repo_root}/conceptgraph/dataset/dataconfigs/realsense/realsense_d430i.json

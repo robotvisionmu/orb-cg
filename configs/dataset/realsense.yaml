@@ -1,0 +1,10 @@
+dataset_name: 'realsense'
+camera_params:
+  image_height: 480
+  image_width: 640
+  fx: 616.142
+  fy: 616.13
+  cx: 328.572
+  cy: 247.523
+  png_depth_scale: 1000.0 #for depth image in png format
+  crop_edge: 0

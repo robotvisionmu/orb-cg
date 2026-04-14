@@ -1,7 +1,0 @@
-defaults:
-  - base_paths
-
-dataset_root: ${data_root}/desk
-dataset_config: ${repo_root}/conceptgraph/dataset/dataconfigs/desk/desk.yaml
-scene_id: desk0
-render_camera_path: ${repo_root}/conceptgraph/dataset/dataconfigs/desk/realsense_d430i.json
